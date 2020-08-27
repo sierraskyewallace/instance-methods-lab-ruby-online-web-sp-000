@@ -6,4 +6,5 @@ class Dog
     puts "The dog is sitting"
   end
   
-  
+  dog.bark 
+  dog.sit
