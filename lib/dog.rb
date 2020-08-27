@@ -8,4 +8,3 @@ class Dog
   
   dog.bark 
   dog.sit
-end
