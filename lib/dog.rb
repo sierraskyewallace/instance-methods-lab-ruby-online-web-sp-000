@@ -7,5 +7,5 @@ class Dog
   end
 end
 
-dog.sit 
-dog.bark
+fido = Dog.new 
+
